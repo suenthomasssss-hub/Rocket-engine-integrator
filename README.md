@@ -1,5 +1,5 @@
 # Rocket-engine-thrust-chamber-simulation
-I am aerospace engineering student who are ambitious and passionate in rocket technology, especially for the rocket engine that is the most critical component in astronautical missions. The content of this pages is mainly related to rocket engine, or perhaps i will also talk about cutting edge engine (RDRE)
+I am aerospace engineering student who are ambitious and passionate in rocket technology, especially for the rocket engine that is the most critical component in astronautical missions. The content of this pages is mainly related to rocket engine.
 
 Rocket engine can be classify into solid and liquid, while liquid rockegt engine is a systemicaically integrated component,that include the turbopump, thrust chamber, and non longed tubes and valves for the cyrogenic propellent delivery. Each of them are non seperable with the well known operation for the whole engine, while the thrust chamber takes the most essential.
 
